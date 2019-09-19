@@ -1,0 +1,26 @@
+{
+  "name": "inputs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch style.scss style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frontend-examples-jose/input-material-design.git"
+  },
+  "keywords": [
+    "FrontEnd"
+  ],
+  "author": "Jose Florez",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  },
+  "bugs": {
+    "url": "https://github.com/frontend-examples-jose/input-material-design/issues"
+  },
+  "homepage": "https://github.com/frontend-examples-jose/input-material-design#readme"
+}
